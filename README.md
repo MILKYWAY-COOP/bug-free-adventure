@@ -23,7 +23,7 @@ git clone https://github.com/MILKYWAY-COOP/bug-free-adventure.git
 
 ## Usage
 
-yarn build
+yarn build <br/>
 yarn start
 
 ## Contributing
