@@ -28,4 +28,4 @@ yarn start
 
 ## Contributing
 
-@Stephen M.M.
+@steeeved
