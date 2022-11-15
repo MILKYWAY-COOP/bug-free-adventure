@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="635.5371pt" height="496.6709pt" viewBox="0 0 635.5371 496.6709">
+<g enable-background="new">
+<g id="Layer-1" data-name="Layer 1">
+<path transform="matrix(1,0,0,-1,1,495.6709)" d="M 122.1542 342.3155 L 364.5213 489.1771 L 511.3828 246.81 L 269.0158 99.9485 Z " fill="#0e2141" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,495.6709)" stroke-width="7.9999" stroke-linecap="butt" stroke-miterlimit="2.6131259" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M 122.1542 342.3155 L 364.5213 489.1771 L 511.3828 246.81 L 269.0158 99.9485 Z "/>
+<path transform="matrix(1,0,0,-1,1,495.6709)" d="M 150.9574 390.2939 L 412.4996 460.374 L 482.5797 198.8317 L 221.0374 128.7516 Z " fill="#144264" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,495.6709)" stroke-width="7.9999" stroke-linecap="butt" stroke-miterlimit="2.6131259" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M 150.9574 390.2939 L 412.4996 460.374 L 482.5797 198.8317 L 221.0374 128.7516 Z "/>
+<path transform="matrix(1,0,0,-1,1,495.6709)" d="M 196.8409 414.4904 L 436.6962 414.4904 L 436.6962 174.6351 L 196.8409 174.6351 Z " fill="#548b9f" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,1,495.6709)" stroke-width="7.9999" stroke-linecap="butt" stroke-miterlimit="2.6131259" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M 196.8409 414.4904 L 436.6962 414.4904 L 436.6962 174.6351 L 196.8409 174.6351 Z "/>
+<clipPath id="cp0">
+<path transform="matrix(1,0,0,-1,1,495.6709)" d="M 222.6274 388.7039 L 410.9097 388.7039 L 410.9097 200.4216 L 222.6274 200.4216 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<clipPath id="cp1">
+<path transform="matrix(1,0,0,-1,1,495.6709)" d="M 221.9477 199.7419 L 411.58949 199.7419 L 411.58949 389.3837 L 221.9477 389.3837 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<g transform="matrix(3.7928539,0,0,3.7928539,222.9477,106.286197)">
+<symbol id="im2" viewBox="0 0 50 50">
+<image width="50" height="50" xlink:href="data:image/jpeg;base64,
+/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQIBAQEBAQIB
+AQECAgICAgICAgIDAwQDAwMDAwICAwQDAwQEBAQEAgMFBQQEBQQEBAT/2wBDAQEB
+AQEBAQIBAQIEAwIDBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQE
+BAQEBAQEBAQEBAQEBAT/wAARCAAyADIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEA
+AAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
+MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6
+Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZ
+mqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx
+8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
+YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+anN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPE
+xcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6
+m8EaVcWmwOhBFfSPhuHLKHQj7vtVq0+HF6rBrZFJ/wBla9B0fwXrEaqHtG/75xX/
+AD58TZJwVjqlTE1ly1D/AGNw+fYyjT5atSJr2Ggx30QIKk7cVHc+B335AGa9a8K+
+ELxwnmwvGP8AaWuy1XwhJbQ+asoyq7ttfJZHhuFMNiPq+HqR5f8AEePjOMJUsV9X
+jV94+YLnwfPGCxjyM9fX2rlr3wg0xIK45r1TxH4kfRHeOcK4VsV5rP8AEPS55Spk
+VW/3q/UsHwhluaUebC8sonUs/wAdTp+0kc1/wgj+q/maK6z/AISzTP8An4X/AL6N
+FdH/ABDLD9omP+tOK/vHzL4f/bc8CGdAb2Ngz5xv4NfW/wAP/wBqrwJrfkBJIX3b
+VWvhTwx+wX4Za5iLJJ8rV9o/Dr9jHw/pAt2hDfKRzXwfiT4PUsowkq+WVcXKp8z4
+SXEuGzWlL65OFv7p+mXwjm8OfEG1jlsvLAZd2FrkfjbBpvg1ZI5rpYgVyBu5r0z9
+n74e2HgqFIkkCqqbeW6Vx37SHg+y8USyK8hK7APvdK+GxfhngqfhZDNfYV/7U9ra
+8b8/L/hPx7AZs1x79WpVpfV/7x+b3jHxH4avUmkmvo9vzFvm61843niHwKbxo01F
+N+7jbJX0R4s+DmiRpPHNdMobO/8AeYr55uvgb4RW9aYXpLbt2fMzX6B4X8A8eTy/
+mlUrwj9nmiz94xXFGEw1GMKlSn+BZXWPCeB/xMk6f896KtL8IPC+B/pR6etFfqX/
+ABDrj/8A6Cqv/gDPP/1wyf8Amp/+BHvOlfGzw9asCLiDPX5W5r2Dw9+0FpioPLni
+I/3ua/mV8L/HvV7+ZfNvZiP+ulfSPhf45SwmKOW8cbv+mlf738R/RKySvh5SdKM/
++3f+Af4DcKfTXxv1n6vjJyj/AIpH9JfhX9oC3lddk6gf72an8bfFrTb62dmnRnZe
+rNmvw80D49R2Nv5xvgfl7ycVX1f9qBJmMX2zJ+7w9fk1L6I+W/WeSOE/dx/u/wDA
+P2WH0u8tVH2yrRVT1Pun4geMFvJJPJnA3HordK8Il1GUyl2nJG7+9XyVq3x6887x
+dbw3+3WVb/HS1lYLLcAD/er9EwH0ecHluF5aeFjy/wCFf5HzGK+lY8yxHKsZ/wCT
+f8E+111KPA/enp/faivkEfGnTcD/AEtf++xRWv8AxBbB/wDQMv8AwFf5GH/ExOL/
+AOgx/wDgR+Ovgonzl5P3PWvabGRxNHh3HPZjRRX991/4DP8AJfF6Zk7HpEVxcfYf
+9fN0H/LVv8a4bUbif7Qf3833/wDno3+NFFeLTStI9+Epe1jr0JBPOQMzSnjvITWe
+Z5hIcTSjjtIfWiiuSul7CR6mWt/W6Y77Rcf895v+/rf40UUV840rn6Fdn//Z"/>
+</symbol>
+<use xlink:href="#im2" x="0" y="0" width="50" height="50"/>
+</g>
+</g>
+</g>
+<path transform="matrix(1,0,0,-1,1,495.6709)" stroke-width="7.9999" stroke-linecap="butt" stroke-miterlimit="2.6131259" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M 222.6274 388.7039 L 410.9097 388.7039 L 410.9097 200.4216 L 222.6274 200.4216 Z "/>
+<g id="Layer-2" data-name="Corel_OTF">
+</g>
+<text fill="#0e2141" xml:space="preserve" transform="matrix(1 0 -0 1 1 495.6709)" font-size="97.949" font-family="AlbertusMT"><tspan y="-15.8678" x="-5.779 21.74467 100.299777 145.16042 193.15543 237.03658 291.10444 335.9651 368.5821 394.04884 447.1372 501.20506 533.8221 592.3001">Imagenation Ke</tspan></text>
+</g>
+</g>
+</svg>
