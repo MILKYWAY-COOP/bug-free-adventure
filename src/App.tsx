@@ -1,7 +1,11 @@
+import { Navbar } from './Components';
+import { AppRoutes } from './Routes';
+
 function App() {
   return (
-    <div className="App">
-      <h1>This should show</h1> 
+    <div className='App'>
+      <Navbar />
+      <AppRoutes />
     </div>
   );
 }
