@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+:root {
+  --mainColor: #00203fff;
+  --mainColorLighter: #53627080;
+  --secondaryColor: #adefd1ff;
+
+  --mainFont: 'Poiret One', cursive;
+  --secondaryFont: 'DM Sans', sans-serif;
+}
+
+body {
+  background-color: var(--mainColor);
+  padding: 0 4rem;
+}
