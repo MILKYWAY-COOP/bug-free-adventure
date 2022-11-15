@@ -1,6 +1,6 @@
 # Client Portfolio
 
-We created a portfolio for our clients to showcase their work. We used the following technologies: React, JavaScript, Typescript, and Bootstrap.
+We created a portfolio for our client to showcase their work. We used the following technologies: React, JavaScript, Typescript, and Bootstrap.
 (They are okay with us sharing this project)
 
 ## Table of Contents
