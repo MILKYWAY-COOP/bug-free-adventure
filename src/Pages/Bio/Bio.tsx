@@ -1,5 +1,7 @@
 
 
 export default function Bio() {
-  return <div>Bio</div>;
+  return <div>
+    <h1>Some Bio</h1>
+  </div>;
 }
