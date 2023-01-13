@@ -1,16 +1,19 @@
+import { Image } from '../../Components';
+import { images } from '../../Data';
 import { PortfolioStyled } from './Portfolio.styled';
-import { imgs } from '../../Elements';
 
 export default function Portfolio() {
-  const { img1, img2, img3, img4, img5 } = imgs;
-  const images = [img1, img2, img3, img4, img5];
-
   return (
     <PortfolioStyled>
-      <h1>Here I show off some of my favorite shots. Enjoy!</h1>
+      <h1>Here I show case some of my favorite shots. Enjoy!</h1>
       <div className='picsGrid'>
         {images.map((img, i) => (
-          <img src={img} alt={`pic${i}`} key={i} />
+          <Image
+            src={img.url}
+            alt={`pic${i}`}
+            key={i}
+            description={img.description}
+          />
         ))}
       </div>
     </PortfolioStyled>
