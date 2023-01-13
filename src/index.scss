@@ -19,4 +19,8 @@
 body {
   background-color: var(--mainColor);
   padding: 0 4rem;
+
+  @media screen and (max-width: 768px) {
+    padding: 0;
+  }
 }
