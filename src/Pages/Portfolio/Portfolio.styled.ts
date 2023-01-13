@@ -17,10 +17,16 @@ export const PortfolioStyled = styled.div`
     height: fit-content;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(auto-fit, 1fr);
 
-    img {
-      width: 100%;
-      height: 300px;
+    @media screen and (max-width: 768px) {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(auto-fit, 1fr);
+    }
+
+    @media screen and (max-width: 480px) {
+      grid-template-columns: repeat(1, 1fr);
+      grid-template-rows: repeat(auto-fit, 1fr);
     }
   }
 `;
