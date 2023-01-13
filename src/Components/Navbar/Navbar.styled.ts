@@ -73,4 +73,10 @@ export const NavbarContainer = styled.div`
       cursor: pointer;
     }
   }
+
+  @media (max-width: 768px) {
+    .logo {
+      display: none;
+    }
+  }
 `;
