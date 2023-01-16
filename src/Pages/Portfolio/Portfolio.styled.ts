@@ -4,12 +4,16 @@ export const PortfolioStyled = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 3rem;
 
   h1 {
+    width: 100%;
+    text-align: center;
     color: var(--secondaryColor);
     font-size: 1.5rem;
     font-family: var(--secondaryFont);
-    margin: 1rem 0;
+    font-weight: 400;
+    margin: 0.4rem 0;
   }
 
   .picsGrid {
