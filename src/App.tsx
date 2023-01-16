@@ -1,11 +1,12 @@
-import { Navbar } from './Components';
+import { Navbar, Footer } from './Components';
 import { AppRoutes } from './Routes';
 
 function App() {
   return (
-    <div className='App'>
+    <div className='all'>
       <Navbar />
       <AppRoutes />
+      <Footer />
     </div>
   );
 }
